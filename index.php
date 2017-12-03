@@ -143,6 +143,23 @@
                         </p>
                     </div>
                 </div>
+                <div class="row trf">
+                   <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <img class="spdmtr center-block img-circle" src="images/speedmin.png" alt="30 Мбит/с">
+                        <p class="spdmtrtxt text-center"><strong>30 Мбит/с</strong></p>
+                        <p class="text-center oplata">
+                            Отлично подойдет для одного активного или нескольких-малоактивных пользователей. <br> 100 руб/месяц
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <img class="spdmtr center-block img-circle" src="images/speedmd.png" alt="60 Мбит/с">
+                        <p class="spdmtrtxt text-center"><strong>60 Мбит/с</strong></p>
+                        <p class="text-center oplata">
+                            Отличная скорость и цена. Прекрасно подходит для активной семьи и просмотра интерактивного ТВ. <br> 101 руб/месяц
+                        </p>
+                    </div>
+                </div>
                 <br>
                 <div class="row">
                     <div class="col-md-12">
